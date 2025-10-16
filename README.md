@@ -137,6 +137,7 @@ jupyter notebook
 ```
 6. Open Rossmann Sales Prediction.ipynb and run all cells to reproduce the analysis.
 
+---
 ▶️ **Usage / How to Run**
 
 - Open Rossmann_Sales_Prediction.ipynb in Jupyter Notebook
