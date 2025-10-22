@@ -106,35 +106,35 @@ Through data exploration, feature engineering, and machine learning modeling, th
 
 ## 🛠 Setup & Installation
 
-1. **Clone the Repository:**  
-```
-git clone https://github.com/your-username/Rossmann-Sales-Prediction.git
+1. Clone the Repository:  
+   ```
+   git clone https://github.com/your-username/Rossmann-Sales-Prediction.git
 
-```
-2. **Navigate to the Project Directory:**
-```
-cd Rossmann-Sales-Prediction
-```
-3. **Create and Activate a Virtual Environment (Recommended):**
-```
-python -m venv venv
-```
-**Windows:**
-```
-venv\Scripts\activate
-```
-**Mac/Linux:**
-```
-source venv/bin/activate
-```
-4. **Install Required Libraries:**
-```
-pip install -r requirements.txt
-```
-5. **Launch Jupyter Notebook:**
-```
-jupyter notebook
-```
+   ```
+2. Navigate to the Project Directory:
+   ```
+   cd Rossmann-Sales-Prediction
+   ```
+3. Create and Activate a Virtual Environment (Recommended):
+   ```
+   python -m venv venv
+   ```
+   Windows:
+   ```
+   venv\Scripts\activate
+   ```
+   Mac/Linux:
+   ```
+   source venv/bin/activate
+   ```
+4. Install Required Libraries:
+   ```
+   pip install -r requirements.txt
+   ```
+5. Launch Jupyter Notebook:
+   ```
+   jupyter notebook
+   ```
 6. Open **Rossmann Sales Prediction.ipynb** and run all cells to reproduce the analysis.
 
 ---
@@ -145,11 +145,17 @@ jupyter notebook
 - Explore visualizations and model comparisons
 - Final forecasts available in model output cells
 
-## 🔗 **Connect with Me**
+---
 
-For feedback, collaboration opportunities, or related queries:
+## 🔗 Connect with Me
+
+Let’s connect on LinkedIn for project discussions or data-driven collaborations:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/indu-r-3a3767170/)
 
 ---
+
+## 🙌 Feedback & Support
+
+If you found this project helpful, please ⭐ star the repository and share your thoughts. Suggestions and contributions are always welcome!
    
