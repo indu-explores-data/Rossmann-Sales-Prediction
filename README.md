@@ -106,39 +106,39 @@ Through data exploration, feature engineering, and machine learning modeling, th
 
 ## 🛠 Setup & Installation
 
-1. Clone the Repository:  
+**1. Clone the Repository:**  
    ```
    git clone https://github.com/your-username/Rossmann-Sales-Prediction.git
 
    ```
-2. Navigate to the Project Directory:
+**2. Navigate to the Project Directory:**
    ```
    cd Rossmann-Sales-Prediction
    ```
-3. Create and Activate a Virtual Environment (Recommended):
+**3. Create and Activate a Virtual Environment (Recommended):**
    ```
    python -m venv venv
    ```
-   Windows:
+   **Windows:**
    ```
    venv\Scripts\activate
    ```
-   Mac/Linux:
+   **Mac/Linux:**
    ```
    source venv/bin/activate
    ```
-4. Install Required Libraries:
+**4. Install Required Libraries:**
    ```
    pip install -r requirements.txt
    ```
-5. Launch Jupyter Notebook:
+**5. Launch Jupyter Notebook:**
    ```
    jupyter notebook
    ```
-6. Open **Rossmann Sales Prediction.ipynb** and run all cells to reproduce the analysis.
+**6. Open `Rossmann Sales Prediction.ipynb` and run all cells to reproduce the analysis.**
 
 ---
-## ▶️ **Usage / How to Run**
+## ▶️ Usage / How to Run
 
 - Open **Rossmann_Sales_Prediction.ipynb** in Jupyter Notebook
 - Run all cells sequentially
