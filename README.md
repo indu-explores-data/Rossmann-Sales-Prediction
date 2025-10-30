@@ -109,7 +109,6 @@ Through data exploration, feature engineering, and machine learning modeling, th
 **1. Clone the Repository:**  
    ```
    git clone https://github.com/indu-explores-data/Rossmann-Sales-Prediction.git
-
    ```
 **2. Navigate to the Project Directory:**
    ```
